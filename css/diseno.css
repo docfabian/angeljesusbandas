@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+a {font-size:11px;}
+#descripcion {width:100%; background-color:#FFC; height:350px; margin:5px; text-align:justify; text-transform:uppercase; font-size:12px; font-style:italic}
+#lalista {width:80%; height:100px; text-align:justify; color:#000; font-size:15px; text-height:font-size; font-family:Tahoma, Geneva, sans-serif; margin-left:10%;}
+p {text-align:justify; color:#FFF; font-size:13px;}
+#conte {background-color:#000; margin:2px;}
+#lista {width:100%; float:left; margin-bottom:5px;}
+#img {width:40%; float:left; margin-right:24px;}
+#canciones {width:50%; float:left}
+li {font-size:15px; color:#CCC}
